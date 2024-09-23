@@ -34,7 +34,7 @@ Below is the list of problems and their corresponding solutions:
 ## How to Use
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/hackercup-2024-solutions.git
+    git clone https://github.com/yourusername/HACKERCUP-2024-SOLUTIONS.git
     ```
 2. Navigate to the folder of the problem you are interested in:
     ```bash
