@@ -24,9 +24,9 @@ Below is the list of problems and their corresponding solutions:
 
 | Problem Name  | Solution |                   
 |---------------|--------------------------------------|
-| Problem A     | [Solution A](./Practice Round/A.py) 
-| Problem B     | [Solution B](./Practice Round/B.py)  
-| Problem D1    | [Solution D1](./Practice Round/D1.py)
+| Problem A     | [Solution A](./PracticeRound/A.py) 
+| Problem B     | [Solution B](./PracticeRound/B.py)  
+| Problem D1    | [Solution D1](./PracticeRound/D1.py)
 
 
 *More problems and solutions will be added as they are solved.*
