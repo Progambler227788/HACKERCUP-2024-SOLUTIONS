@@ -26,6 +26,7 @@ Below is the list of problems and their corresponding solutions:
 |---------------|--------------------------------------|
 | Problem A     | [Solution A](./PracticeRound/A.py) 
 | Problem B     | [Solution B](./PracticeRound/B.py)  
+| Problem C     | [Solution C](./PracticeRound/C.py)
 | Problem D1    | [Solution D1](./PracticeRound/D1.py)
 
 
