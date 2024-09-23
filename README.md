@@ -34,7 +34,7 @@ Below is the list of problems and their corresponding solutions:
 ## How to Use
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/HACKERCUP-2024-SOLUTIONS.git
+    git clone https://github.com/Progambler227788/HACKERCUP-2024-SOLUTIONS.git
     ```
 2. Navigate to the folder of the problem you are interested in:
     ```bash
@@ -42,7 +42,7 @@ Below is the list of problems and their corresponding solutions:
     ```
 3. Open the solution file to review the code and approach:
     ```bash
-    A.py  # or another problem file
+    A.py  # or another problem file like B.py or D1.py
     ```
 4. Test the solution by running the provided test cases or adding your own:
     ```bash
